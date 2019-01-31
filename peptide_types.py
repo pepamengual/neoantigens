@@ -2,10 +2,6 @@ import sys
 import os
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn import datasets, linear_model
-from sklearn.metrics import mean_squared_error, r2_score
-import statsmodels.api as sm
-from pyseqlogo.pyseqlogo import draw_logo, setup_axis
 
 
 def peptideClassifier(inputFile, d8, d9, d10):
