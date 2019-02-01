@@ -72,7 +72,7 @@ with open(outputFile, 'r') as f:
             results = "{} {} {} {} {} {} {} {} {}".format(peptide, qualitativeValue, heavyatomsPeptide, polarityPeptide, G, energy, GperHydro, GperHydroN, GperN)
             l.append(results)
 
-with open("results.txt", "w") as f:
+with open("energies_{}".format(outputFile), "w") as f:
     f.write("Peptide qualitativeValue HeavyatomsPeptide Polarity ΔGexp FoldxBindingEnergy EnergyCorrPolarity EnergyCorrPolarityN EnergyCorrN\n")
     for k in l:
         f.write(k + '\n')
