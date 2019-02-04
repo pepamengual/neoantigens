@@ -25,76 +25,74 @@ polarityClassifier = {'A':'A','R':'P','N':'P','D':'P','C':'A','E':'P','Q':'P','G
 R = 1.9872036e-3
 T = 300
 
-d = {}
-l = []
+def DBfilter():
+    d = {}
+    l = []
+    with open(inputFile, 'r') as f:
+        for line in f:
+            h_line = line.split(",")
+            referemce = h_line[0]
+            peptide = h_line[1]
+            method = h_line[2]
+            assay = h_line[3]
+            units = h_line[4]
+            qualitativeValue = h_line[5]
+            quantitativeValue = h_line[6]
+            allele = h_line[7].rstrip()
+            if len(peptide) == 9:
+                if quantitativeValue:
+                    if assay == "half maximal inhibitory concentration (IC50)":
+                        if units == "nM":
+                            if not peptide in d:
+                                content = "{} {}".format(quantitativeValue, qualitativeValue)
+                                d[peptide] = content
+                            else:
+                                del d[peptide]
+    with open(outputFile, 'w') as f:
+        for key, value in d.items():
+            f.write("{} {}".format(key, value) + '\n')
 
+def energyCalculator():
+    with open(outputFile, 'r') as f:
+        for line in f:
+            peptide = line.split(" ")[0]
+            peptide = peptide.rstrip()
+            polarityPeptide = 0.0
+            heavyatomsPeptide = 0
+            polarityKeyResidues = float(polarity[peptide[1]]) + float(polarity[peptide[8]])
+            for aa in peptide:
+                polarityPeptide += float(polarity[aa])
+            for aa in peptide:
+                heavyatomsPeptide += int(heavyatoms[aa])
+            polarityPeptide = round(polarityPeptide, 3)
+            ic50 = line.split(" ")[1]
+            ic50 = float(ic50)
+            ic50 /= 1e9
+            qualitativeValue = line.split(" ")[2].rstrip('\n')
+            locationEnergy = "{}/Summary_{}_AC.fxout".format(foldxIE, peptide)
+            with open(locationEnergy, 'r') as f2:
+                last_line = f2.readlines()[-1]
+                energy = last_line.split("\t")[5]
+                energy = round(float(energy), 3)
+                G = R * T * (np.log(ic50))
+                G = round(G, 3)
+                GperHydro = energy * polarityPeptide
+                GperHydro = round(GperHydro, 3)
+                GperHydroN = (energy * polarityPeptide) / heavyatomsPeptide
+                GperHydroN = round(GperHydroN, 3)
+                GperN = (energy / heavyatomsPeptide)
+                GperN = round(GperN, 3)
+                pKey = energy * polarityKeyResidues
+                pKey = round(pKey, 3)
+                pKeyN = (energy * polarityKeyResidues) / heavyatomsPeptide
+                pKeyN = round(pKeyN, 3)
+                results = "{} {} {} {} {} {} {} {} {} {} {}".format(peptide, qualitativeValue, heavyatomsPeptide, polarityPeptide, G, energy, GperHydro, GperHydroN, GperN, pKey, pKeyN)
+                l.append(results)
 
-with open(inputFile, 'r') as f:
-    for line in f:
-        h_line = line.split(",")
-        referemce = h_line[0]
-        peptide = h_line[1]
-        method = h_line[2]
-        assay = h_line[3]
-        units = h_line[4]
-        qualitativeValue = h_line[5]
-        quantitativeValue = h_line[6]
-        allele = h_line[7].rstrip()
-        if len(peptide) == 9:
-            if quantitativeValue:
-                if assay == "half maximal inhibitory concentration (IC50)":
-                    if units == "nM":
-                        if not peptide in d:
-                            content = "{} {}".format(quantitativeValue, qualitativeValue)
-                            d[peptide] = content
-                        else:
-                            del d[peptide]
-
-with open(outputFile, 'w') as f:
-    for key, value in d.items():
-        f.write("{} {}".format(key, value) + '\n')
-
-
-with open(outputFile, 'r') as f:
-    for line in f:
-        peptide = line.split(" ")[0]
-        peptide = peptide.rstrip()
-        polarityPeptide = 0.0
-        heavyatomsPeptide = 0
-        polarityKeyResidues = float(polarity[peptide[1]]) + float(polarity[peptide[8]])
-        for aa in peptide:
-            polarityPeptide += float(polarity[aa])
-        for aa in peptide:
-            heavyatomsPeptide += int(heavyatoms[aa])
-        polarityPeptide = round(polarityPeptide, 3)
-        ic50 = line.split(" ")[1]
-        ic50 = float(ic50)
-        ic50 /= 1e9
-        qualitativeValue = line.split(" ")[2].rstrip('\n')
-        locationEnergy = "{}/Summary_{}_AC.fxout".format(foldxIE, peptide)
-        with open(locationEnergy, 'r') as f2:
-            last_line = f2.readlines()[-1]
-            energy = last_line.split("\t")[5]
-            energy = round(float(energy), 3)
-            G = R * T * (np.log(ic50))
-            G = round(G, 3)
-            GperHydro = energy * polarityPeptide
-            GperHydro = round(GperHydro, 3)
-            GperHydroN = (energy * polarityPeptide) / heavyatomsPeptide
-            GperHydroN = round(GperHydroN, 3)
-            GperN = (energy / heavyatomsPeptide)
-            GperN = round(GperN, 3)
-            pKey = energy * polarityKeyResidues
-            pKey = round(pKey, 3)
-            pKeyN = (energy * polarityKeyResidues) / heavyatomsPeptide
-            pKeyN = round(pKeyN, 3)
-            results = "{} {} {} {} {} {} {} {} {} {} {}".format(peptide, qualitativeValue, heavyatomsPeptide, polarityPeptide, G, energy, GperHydro, GperHydroN, GperN, pKey, pKeyN)
-            l.append(results)
-
-with open(energiesFile, "w") as f:
-    f.write("Peptide qualitativeValue HeavyatomsPeptide Polarity ΔGexp FoldxBindingEnergy EnergyCorrPolarity EnergyCorrPolarityN EnergyCorrN\n")
-    for k in l:
-        f.write(k + '\n')
+    with open(energiesFile, "w") as f:
+        f.write("Peptide qualitativeValue HeavyatomsPeptide Polarity ΔGexp FoldxBindingEnergy EnergyCorrPolarity EnergyCorrPolarityN EnergyCorrN\n")
+        for k in l:
+            f.write(k + '\n')
 
 di = {"x": [], "y": [], "p": []} #FoldX Binding energies lower than -15Kcal/mol
 di2 = {"x": [], "y": [], "p": []} #FoldX Binding energies higher than -15Kcal/mol
@@ -191,11 +189,8 @@ print("Some Polar: ", sp)
 print("Double Polar High Ratio: ", round(countdpHigh/countdpNoHigh, 3))
 print("Positive / Negative Ratio: ", round(countdpPositive/countdpNegative, 3))
 
-#sns.scatterplot(x="x", y="y", hue="p", s=20, palette=colors, data=di, alpha=1)
-#sns.scatterplot(x="x", y="y", hue="p", s=20, palette=colors, data=di2, alpha=0.1, legend=False)
 
 sns.scatterplot(x="x", y="y", hue="p", s=20, palette=colors, data=di6, alpha=1)
-#sns.scatterplot(x="x", y="y", hue="p", s=20, palette=colors, data=di4, alpha=1, legend=False)
 sns.scatterplot(x="x", y="y", hue="p", s=20, palette=colors, data=di2, alpha=0.1, legend=False)
 
 
@@ -206,15 +201,6 @@ plt.ylim(-30,10)
 plt.xlim(-15,-2)
 plt.savefig("scatter_9-lenght_exp_foldx_doubleapolar_{}.png".format(threshold))
 plt.show()
-
-
-#            secondResidueType = polarityClassifier[peptide[1]]
-#            ninthResidueType = polarityClassifier[peptide[8]]
- 
-        #if secondResidueType == "A":
-        #    if ninthResidueType == "A":
-        #        print(peptide, secondResidueType, ninthResidueType)
-
 
 
 
