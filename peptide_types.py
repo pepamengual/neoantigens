@@ -2,42 +2,48 @@ import sys
 import os
 import numpy as np
 import matplotlib.pyplot as plt
+import csv
 
 
-def peptideClassifier(inputFile, d8, d9, d10):
+def peptideClassifier(inputFile, d9, d10):
     with open(inputFile, 'r') as f:
+        next(f)
+        next(f)
+        c = 3
         for line in f:
-            h_line = line.split(",")
-            reference = h_line[0]
-            peptide = h_line[1]
-            method = h_line[2]
-            assay = h_line[3]
-            units = h_line[4]
-            qualitativeMeasure = h_line[5]
-            quantitativeValue = h_line[6]
-            alleleName = h_line[7].rstrip()
-            if len(peptide) == 8:
+            h_line = line.split('","') #,
+            try:
+                reference = h_line[3] #0
+                peptide = h_line[11] #1
+                method = h_line[79] #2
+                assay = h_line[80] #3
+                units = h_line[81] #4
+                qualitativeMeasure = h_line[83] #5
+                quantitativeValue = h_line[85] #6
+                alleleName = h_line[95] #7 .rstrip()
+                c += 1
+            except:
+                continue
+            if alleleName == "HLA-A*11:01":
                 if "X" not in peptide:
-                    if qualitativeMeasure:
-                        if not qualitativeMeasure in d8:
-                            d8[qualitativeMeasure] = [peptide] 
-                        else:
-                            d8[qualitativeMeasure].append(peptide)
-            if len(peptide) == 9:
-                if "X" not in peptide:
-                    if qualitativeMeasure:
-                        if not qualitativeMeasure in d9:
-                            d9[qualitativeMeasure] = [peptide]
-                        else:
-                            d9[qualitativeMeasure].append(peptide)
-            if len(peptide) == 10:
-                if "X" not in peptide:
-                    if qualitativeMeasure:
-                        if not qualitativeMeasure in d10:
-                            d10[qualitativeMeasure] = [peptide]
-                        else:
-                            d10[qualitativeMeasure].append(peptide)
-    return d8, d9, d10
+                    if method:
+                        if qualitativeMeasure:
+                           #if len(peptide) == 8:
+                           #    if not qualitativeMeasure in d8:
+                           #        d8[qualitativeMeasure] = [peptide]
+                           #    else:
+                           #        d8[qualitativeMeasure].append(peptide)
+                            if len(peptide) == 9:
+                                if not qualitativeMeasure in d9:
+                                    d9[qualitativeMeasure] = [peptide]
+                                else:
+                                    d9[qualitativeMeasure].append(peptide)
+                            if len(peptide) == 10:
+                                if not qualitativeMeasure in d10:
+                                    d10[qualitativeMeasure] = [peptide]
+                                else:
+                                    d10[qualitativeMeasure].append(peptide)
+    return d9, d10
 
 
 polarity = {'A':'A','R':'P','N':'P','D':'P','C':'A','E':'P','Q':'P','G':'A','H':'P','I':'A','L':'A','K':'P','M':'A','F':'A','P':'A','S':'P','T':'P','W':'A','Y':'A','V':'A'}
@@ -78,17 +84,18 @@ def plotter(d):
     plt.ylabel('Hydrophobicity')
     plt.xlabel('Peptide position')
     plt.legend()
-    plt.savefig("peptide_lenght_{}.png".format(peptideLenght))
+    #plt.savefig("peptide_lenght_{}.png".format(peptideLenght))
     plt.show()
 
 
 def main():
-    inputFile = "HLA-A-0201_assays.csv"
-    d8 = {}
+    #inputFile = "HLA-A-0201_assays.csv"
+    inputFile = "mhc_ligand_full.csv"
+    #d8 = {}
     d9 = {}
     d10 = {}
-    peptideClassifier(inputFile, d8, d9, d10)    
-    plotter(d8)
+    peptideClassifier(inputFile, d9, d10)    
+    #plotter(d8)
     plotter(d9)
     plotter(d10)
 

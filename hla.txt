@@ -1,0 +1,614 @@
+	5EU3	HLA Class I antigen	3/2/2016
+	5EU4	HLA Class I antigen	3/2/2016
+	5EU5	HLA Class I antigen	3/2/2016
+	5EU6	HLA Class I antigen	3/2/2016
+	5C09	HLA class I histocompatibility antigen	5/4/2016
+	6EQA	HLA class I histocompatibility antigen	10/10/2018
+	6EQB	HLA class I histocompatibility antigen	10/10/2018
+	5XS3	Crystal structure of HLA Class I antigen	9/13/2017
+	2XPG	Crystal structure of a MHC class I-peptide complex	4/27/2011
+	3HLA	HUMAN CLASS I HISTOCOMPATIBILITY ANTIGEN A2.1	4/15/1990
+	1HLA	STRUCTURE OF THE HUMAN CLASS I HISTOCOMPATIBILITY ANTIGEN, HLA-A2	1/16/1988
+	2X4P	Crystal structure of MHC CLass I HLA-A2.1 bound to a photocleavable peptide	3/2/2010
+	2X4Q	Crystal structure of MHC CLass I HLA-A2.1 bound to a photocleavable peptide	3/2/2010
+	2X70	Crystal structure of MHC CLass I HLA-A2.1 bound to a photocleavable peptide	12/8/2010
+	3H7B	Human Class I MHC HLA-A2 in complex with the Tel1p peptide	1/12/2010
+	3H9H	Human Class I MHC HLA-A2(A150P) in complex with the Tel1p peptide	1/12/2010
+	3IXA	Human Class I MHC HLA-A2(A150P) in complex with the Tax peptide	1/12/2010
+	3O3A	Human Class I MHC HLA-A2 in complex with the Peptidomimetic ELA-1	12/8/2010
+	3O3B	Human Class I MHC HLA-A2 in complex with the Peptidomimetic ELA-1.1	12/8/2010
+	3O3D	Human Class I MHC HLA-A2 in complex with the Peptidomimetic ELA-2	12/8/2010
+	3O3E	Human Class I MHC HLA-A2 in complex with the Peptidomimetic ELA-2.1	12/8/2010
+	3PWL	Human Class I MHC HLA-A2 in complex with the HuD peptide	3/9/2011
+	6AMT	Human Class I MHC HLA-A2 in complex with synthetic peptide MMWDRGLGMM	8/15/2018
+	4U1H	HLA class I micropolymorphisms determine peptide-HLA landscape and dictate differential HIV-1 escape through identical epitopes	4/8/2015
+	4U1I	HLA class I micropolymorphisms determine peptide-HLA landscape and dictate differential HIV-1 escape through identical epitopes	4/8/2015
+	4U1J	HLA class I micropolymorphisms determine peptide-HLA landscape and dictate differential HIV-1 escape through identical epitopes	4/8/2015
+	4U1K	HLA class I micropolymorphisms determine peptide-HLA landscape and dictate differential HIV-1 escape through identical epitopes	4/8/2015
+	4U1L	HLA class I micropolymorphisms determine peptide-HLA landscape and dictate differential HIV-1 escape through identical epitopes	4/8/2015
+	4U1M	HLA class I micropolymorphisms determine peptide-HLA landscape and dictate differential HIV-1 escape through identical epitopes	4/8/2015
+	4U1N	HLA class I micropolymorphisms determine peptide-HLA landscape and dictate differential HIV-1 escape through identical epitopes	4/8/2015
+	4U1S	HLA class I micropolymorphisms determine peptide-HLA landscape and dictate differential HIV-1 escape through identical epitopes	4/8/2015
+	3UTQ	Human HLA-A*0201-ALWGPDPAAA	1/25/2012
+	1AKJ	COMPLEX OF THE HUMAN MHC CLASS I GLYCOPROTEIN HLA-A2 AND THE T CELL CORECEPTOR CD8	9/17/1997
+	5E00	Structure of HLA-A2 P130	1/18/2017
+	5N1Y	HLA-A02 carrying MVWGPDPLYV	2/15/2017
+	5NMH	HLA A02 presenting SLYNTIATL	11/15/2017
+	5NMK	HLA A02 presenting SLFNTIAVL	11/15/2017
+	5WSH	Structure of HLA-A2 P130	12/20/2017
+	1M6O	Crystal Structure of HLA B*4402 in complex with HLA DPA*0201 peptide	9/2/2003
+	5EUO	PF6-M1-HLA-A2	11/23/2016
+	4NO3	Crystal structure of AMPD2 phosphopeptide bound to HLA-A2	12/24/2014
+	1B0G	CLASS I HISTOCOMPATIBILITY ANTIGEN (HLA-A2.1)/BETA 2-MICROGLOBULIN/PEPTIDE P1049 COMPLEX	11/18/1998
+	1YDP	1.9A crystal structure of HLA-G	3/8/2005
+	4NT6	HLA-C*0801 Crystal Structure	7/23/2014
+	3VFM	crystal structure of HLA B*3508 LPEP155A, HLA mutant Ala155	3/7/2012
+	3VFN	crystal structure of HLA B*3508LPEP151A, HLA mutant Ala151	3/7/2012
+	3VFO	crystal structure of HLA B*3508 LPEP157A, HLA mutant Ala157	3/7/2012
+	3VFP	crystal structure of HLA B*3508 LPEP158G, HLA mutant Gly158	3/7/2012
+	2HJK	Crystal Structure of HLA-B5703 and HIV-1 peptide	10/3/2006
+	2HJL	Crystal Structure of HLA-B5703 and HIV-1 peptide	10/3/2006
+	5INC	Crystal structure of HLA-B5801, a protective HLA allele for HIV-1 infection	10/5/2016
+	5IND	Crystal structure of HLA-B5801, a protective HLA allele for HIV-1 infection	10/5/2016
+	5EO0	Crystal Structure of HLA-B0702-RFL9	2/24/2016
+	5EO1	Crystal Structure of HLA-B0702-RL9	2/24/2016
+	6BJ8	TCR55 in complex with Pep20/HLA-B35	7/25/2018
+	5ENW	Structure of HLA-A2:01 with peptide G9L	11/9/2016
+	5EOT	Structure of HLA-A2:01 with peptide G13E	12/7/2016
+	5F7D	Structure of HLA-A2:01 with peptide G11N	12/21/2016
+	5F9J	Structure of HLA-A2:01 with peptide Y9L	12/21/2016
+	5FA3	Structure of HLA-A2:01 with peptide G9V	12/21/2016
+	5FA4	Structure of HLA-A2:01 with peptide Y16R	12/21/2016
+	5FDW	Structure of HLA-A2:01 with peptide Y10L	12/21/2016
+	6EWA	Crystal structure of HLA-A2 in complex with LILRB1	11/7/2018
+	5C0D	HLA-A02 carrying AQWGPDPAAA	5/4/2016
+	5C0E	HLA-A02 carrying YLGGPDFPTI	5/4/2016
+	5C0F	HLA-A02 carrying RQWGPDPAAV	5/4/2016
+	5C0G	HLA-A02 carrying YLGGPDFPTI	5/4/2016
+	5C0J	HLA-A02 carrying RQFGPDWIVA	5/4/2016
+	4NNX	Crystal structure of PKD2 phosphopeptide bound to HLA-A2	11/19/2014
+	1BD2	COMPLEX BETWEEN HUMAN T-CELL RECEPTOR B7, VIRAL PEPTIDE (TAX) AND MHC CLASS I MOLECULE HLA-A 0201	8/19/1998
+	2HN7	HLA-A*1101 in complex with HBV peptide homologue	11/28/2006
+	4WUU	Structure of ESK1 in complex with HLA-A*0201/WT1	12/30/2015
+	5D2N	Crystal structure of C25-NLV-HLA-A2 complex	10/7/2015
+	5HHN	Crystal Structure of HLA-A*0201 in complex with M1-F5L	3/23/2016
+	5HHP	Crystal Structure of HLA-A*0201 in complex with M1-G4E	3/23/2016
+	5HHQ	Crystal Structure of HLA-A*0201 in complex with M1-L3W	3/23/2016
+	5HYJ	1E6 TCR in Complex with HLA-A02 carrying AQWGPDPAAA	5/4/2016
+	5NME	868 TCR in complex with HLA A02 presenting SLYNTVATL	11/15/2017
+	5NMF	868 TCR in complex with HLA A02 presenting SLYNTIATL	11/15/2017
+	5NMG	868 TCR in complex with HLA A02 presenting SLYFNTIAVL	11/15/2017
+	5TEZ	TCR F50 recgonizing M1-HLA-A2	9/27/2017
+	5W1V	Structure of the HLA-E-VMAPRTLIL/GF4 TCR complex	10/4/2017
+	5W1W	Structure of the HLA-E-VMAPRTLVL/GF4 TCR complex	10/4/2017
+	5WJL	Crystal Structure of HLA-A*11:01 with GTS1 peptide	9/20/2017
+	5WJN	Crystal Structure of HLA-A*11:01-GTS3	9/20/2017
+	1DUZ	HUMAN CLASS I HISTOCOMPATIBILITY ANTIGEN (HLA-A 0201) IN COMPLEX WITH A NONAMERIC PEPTIDE FROM HTLV-1 TAX PROTEIN	2/4/2000
+	1EFX	STRUCTURE OF A COMPLEX BETWEEN THE HUMAN NATURAL KILLER CELL RECEPTOR KIR2DL2 AND A CLASS I MHC LIGAND HLA-CW3	6/14/2000
+	1IM3	Crystal Structure of the human cytomegalovirus protein US2 bound to the MHC class I molecule HLA-A2/tax	6/6/2001
+	1TVB	Crystal structure of Melanoma Antigen gp100(209-217) Bound to Human Class I MHC HLA-A2	4/19/2005
+	1TVH	Crystal structure of Modified Melanoma Antigen gp100(209-T2M) Bound to Human Class I MHC HLA-A2	4/19/2005
+	2GT9	Human Class I MHC HLA-A2 in complex with the decameric Melan-A/MART-1(26-35) peptide	6/12/2007
+	2GUO	Human Class I MHC HLA-A2 in complex with the native nonameric Melan-A/MART-1(27-35) peptide	6/12/2007
+	2X4O	Crystal structure of MHC CLass I HLA-A2.1 bound to HIV-1 envelope peptide env120-128	3/2/2010
+	2X4R	Crystal structure of MHC CLass I HLA-A2.1 bound to Cytomegalovirus (CMV) pp65 epitope	3/2/2010
+	2X4S	Crystal structure of MHC CLass I HLA-A2.1 bound to a peptide representing the epitope of the H5N1 (Avian Flu) Nucleoprotein	3/2/2010
+	2X4T	Crystal structure of MHC CLass I HLA-A2.1 bound to a Peiodate- cleavable peptide	3/2/2010
+	2X4U	Crystal structure of MHC CLass I HLA-A2.1 bound to HIV-1 Peptide RT468-476	3/2/2010
+	3BGM	Crystal Structure of PKD2 Phosphopeptide Bound to Human Class I MHC HLA-A2	10/21/2008
+	3BH8	Crystal Structure of RQA_M Phosphopeptide Bound to HUMAN Class I MHC HLA-A2	10/21/2008
+	3BH9	Crystal Structure of RTY Phosphopeptide Bound to Human Class I MHC HLA-A2	10/21/2008
+	3BHB	Crystal Structure of KMD Phosphopeptide Bound to Human Class I MHC HLA-A2	10/21/2008
+	3D25	Crystal structure of HA-1 minor histocompatibility antigen bound to human class I MHC HLA-A2	2/10/2009
+	3H9S	The complex between TCR A6 and human Class I MHC HLA-A2 with the bound Tel1p peptide	1/12/2010
+	3HPJ	Human Class I MHC HLA-A2 in complex with the WT-1 (126-134) peptide	6/23/2010
+	3MR9	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCMV pp65-495-503 nonapeptide M5A variant	5/25/2011
+	3MRB	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCMV pp65-495-503 nonapeptide A7H variant	5/25/2011
+	3MRC	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCMV pp65-495-503 nonapeptide V6C variant	5/25/2011
+	3MRD	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCMV pp65-495-503 nonapeptide V6G variant	5/25/2011
+	3MRE	Crystal Structure of MHC class I HLA-A2 molecule complexed with EBV bmlf1-280-288 nonapeptide	5/25/2011
+	3MRF	Crystal Structure of MHC class I HLA-A2 molecule complexed with EBV bmlf1-280-288 nonapeptide T4P variant	5/25/2011
+	3MRG	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCV NS3-1073-1081 nonapeptide	5/25/2011
+	3MRH	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCV NS3-1073-1081 nonapeptide N3S variant	5/25/2011
+	3MRJ	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCV NS3-1073-1081 nonapeptide V5M variant	5/25/2011
+	3MRK	Crystal Structure of MHC class I HLA-A2 molecule complexed with AFP137 nonapeptide	5/25/2011
+	3MRL	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCV NS3-1073-1081 nonapeptide C6V variant	5/25/2011
+	3MRM	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCV NS3-1406-1415 decapeptide	5/25/2011
+	3MRN	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCV NS4b-1807-1816 decapeptide	5/25/2011
+	3MRO	Crystal Structure of MHC class I HLA-A2 molecule complexed with Melan-A MART1 decapeptide variant	5/25/2011
+	3MRP	Crystal Structure of MHC class I HLA-A2 molecule complexed with Melan-A MART1 decapeptide variant	5/25/2011
+	3MRQ	Crystal Structure of MHC class I HLA-A2 molecule complexed with Melan-A MART1 decapeptide variant	5/25/2011
+	3MRR	Crystal Structure of MHC class I HLA-A2 molecule complexed with Human Prostaglandin Transporter decapeptide	5/25/2011
+	3MYJ	Human Class I MHC HLA-A2 in complex with the WT-1 (126-134) (R1Y) peptide variant.	8/18/2010
+	3PWJ	Human Class I MHC HLA-A2 in complex with the HuD (G2L,I9V) peptide variant	3/9/2011
+	3PWN	Human Class I MHC HLA-A2 in complex with the HuD (G2L) peptide variant	3/9/2011
+	3PWP	The complex between TCR A6 and human Class I MHC HLA-A2 with the bound HuD peptide	3/9/2011
+	3Q2C	Binding properties to HLA class I molecules and the structure of the leukocyte Ig-like receptor A3 (LILRA3/ILT6/LIR4/CD85e)	7/13/2011
+	3QFD	Human Class I MHC HLA-A2 in complex with Mart-1(27-35) nonameric peptide	9/28/2011
+	3QFJ	The complex between TCR A6 and human Class I MHC HLA-A2 with the modified TAX (Y5F) peptide	1/11/2012
+	3REW	Crystal structure of an lmp2a-derived peptide bound to human class i mhc hla-a2	1/18/2012
+	4NO5	Crystal structure of non-phosphorylated form of AMPD2 phosphopeptide bound to HLA-A2	12/24/2014
+	6APN	HLA-A*0201 single chain trimer with HPV.16 E7 peptide LLMGTLGIV	8/22/2018
+	1M05	HLA B8 in complex with an Epstein Barr Virus determinant	9/2/2003
+	1SYS	Crystal structure of HLA, B*4403, and peptide EEPTVIKKY	10/19/2004
+	3CDG	Human CD94/NKG2A in complex with HLA-E	4/22/2008
+	3X11	Crystal structure of HLA-B*57:01.I80N.L82R.R83G	12/24/2014
+	3X12	Crystal structure of HLA-B*57:01.I80N	12/24/2014
+	3X13	Crystal structure of HLA-B*0801.N80I	12/24/2014
+	3X14	Crystal structure of HLA-B*0801.N80I.R82L.G83R	12/24/2014
+	4NO2	Crystal structure of RQA_V phosphopeptide bound to HLA-A2	11/19/2014
+	5B38	KIR3DL1*005 in complex with HLA-B*57:01	3/30/2016
+	5B39	KIR3DL1*015 in complex with HLA-B*57:01	3/30/2016
+	4O2E	A peptide complexed with HLA-B*3901	7/23/2014
+	4O2F	A peptide complexed with HLA-B*3901	7/23/2014
+	5T6W	HLA-B*57:01 presenting SSTRGISQLW	3/1/2017
+	5T6X	HLA-B*57:01 presenting TSTTSVASSW	3/1/2017
+	5T6Y	HLA-B*57:01 presenting TSTFEDVKILAF	3/1/2017
+	4XXC	HLA-B*1801 in complex with a self-peptide, DELEIKAY	4/8/2015
+	5VGD	Crystal Structure of HLA-C*0501 in complex with SAE	5/31/2017
+	5W69	HLA-C*06:02 presenting ARFNDLRFV	8/23/2017
+	5W6A	HLA-C*06:02 presenting ARTELYRSL	8/23/2017
+	6BJ2	TCR589 in complex with HIV(Pol448-456)/HLA-B35	7/25/2018
+	6BJ3	TCR55 in complex with HIV(Pol448-456)/HLA-B35	7/25/2018
+	5D9S	Structure of HLA-A2:01 with the 11-mer peptide F11V	7/6/2016
+	5DDH	Structure of HLA-A2:01 with the 12-mer peptide F12K	7/27/2016
+	3V5D	HLA-A2.1 KVAELVHFL	12/5/2012
+	3V5H	HLA-A2.1 KVAEIVHFL	12/5/2012
+	4NNY	Crystal structure of non-phosphorylated form of PKD2 phosphopeptide bound to HLA-A2	11/19/2014
+	5N6B	Human Leukocyte Antigen Class I A02 Carrying LLWNPGMAV	10/18/2017
+	1A1N	MHC CLASS I MOLECULE B*3501 COMPLEXED WITH PEPTIDE VPLRPMTY FROM THE NEF PROTEIN (75-82) OF HIV1	4/8/1998
+	4U6X	Crystal Structure of HLA-A*0201 in complex with ALQDA, a 15 mer self-peptide	12/24/2014
+	4U6Y	Crystal Structure of HLA-A*0201 in complex with FLNDK, a 15 mer self-peptide	12/24/2014
+	5GRD	Crystal structure of 10-mer peptide from EBV in complex with HLA-A1101.	8/9/2017
+	5GRG	Crystal structure of dual peptide from EBV in complex with HLA-A*11:01	8/9/2017
+	5GSD	Crystal structure of LMP2 peptide from EBV in complex with HLA-A*11:01	8/9/2017
+	5HHM	Crystal Structure of the JM22 TCR in complex with HLA-A*0201 in complex with M1-F5L	3/23/2016
+	5HHO	Crystal Structure of the JM22 TCR in complex with HLA-A*0201 in complex with M1-G4E	3/23/2016
+	5ISZ	Crystal structure of LS01-TCR/M1-HLA-A*02 complex	3/1/2017
+	5JHD	Crystal structure of LS10-TCR/M1-HLA-A*02 complex	3/1/2017
+	5SWQ	Crystal Structure of HLA-A*0201 in complex with NA231, an influenza epitope	10/5/2016
+	6D7G	Structure of 5F3 TCR in complex with HLA-A2/MART-1	1/23/2019
+	3BXN	The high resolution crystal structure of HLA-B*1402 complexed with a Cathepsin A signal sequence peptide, pCatA	2/3/2009
+	2NW3	Crystal structure of HLA-B*3508 presenting EBV peptide EPLPQGQLTAY at 1.7A	2/27/2007
+	4O2C	An Nt-acetylated peptide complexed with HLA-B*3901	7/23/2014
+	1I1F	Crystal structure of human class i mhc (hla-a2.1) complexed with beta 2-microglobulin and hiv-rt variant peptide i1y	1/12/2000
+	1I1Y	CRYSTAL STRUCTURE OF HUMAN CLASS I MHC (HLA-A2.1) COMPLEXED WITH BETA 2-MICROGLOBULIN AND HIV-RT VARIANT PEPTIDE I1Y	1/21/2000
+	3BZF	The human non-classical major histocompatibility complex molecule HLA-E	4/29/2008
+	4UQ2	Crystal structure of HLA-A1101 in complex with an azobenzene- containing peptide	9/17/2014
+	4WU5	HLA-A24 in complex with HIV-1 Nef134-8(wt)	5/6/2015
+	4WU7	HLA-A24 in complex with HIV-1 Nef134-8(2F)	5/6/2015
+	6EI2	Crystal Structure of HLA-A68 presenting a C-terminally extended peptide	10/11/2017
+	2JCC	AH3 recognition of mutant HLA-A2 W167A	10/9/2007
+	5C07	1E6 TCR in complex with HLA-A02 carrying YQFGPDFPIA	5/4/2016
+	5C08	1E6 TCR in Complex with HLA-A0e carrying RQWGPDPAAV	5/4/2016
+	5C0B	1E6 TCR in complex with HLA-A02 carrying RQFGPDFPTI	5/4/2016
+	5C0C	1E6 TCR in complex with HLA-A02 carrying RQFGPDWIVA	5/4/2016
+	5VUD	HLA-B*57:01 presenting LSSPVTKSW	10/3/2018
+	5VUE	HLA-B*57:01 presenting LTVQVARVW	10/3/2018
+	5VUF	HLA-B*57:01 presenting LTVQVARVY	10/3/2018
+	5VWH	HLA-B*58:01 presenting LSSPVTKSW	10/3/2018
+	5VWJ	HLA-B*58:01 presenting LTVQVARVW	10/3/2018
+	5XOS	Crystal structure of HLA-B35 in complex with a pepetide antigen	6/14/2017
+	6D29	HLA-B*57:01 presenting TSMSFVPRPW	10/3/2018
+	6D2B	HLA-B*57:01 presenting LSDSTARDVTW	10/3/2018
+	6D2R	HLA-B*57:01 presenting GSFDYSGVHLW	10/3/2018
+	6D2T	HLA-B*57:01 presenting LALLTGVRW	10/3/2018
+	2YPK	Structural features underlying T-cell receptor sensitivity to concealed MHC class I micropolymorphisms	11/28/2012
+	4L29	Structure of wtMHC class I with NY-ESO1 double mutant	12/25/2013
+	1SYV	HLA-B*4405 complexed to the dominant self ligand EEFGRAYGF	10/19/2004
+	2AK4	Crystal Structure of SB27 TCR in complex with HLA-B*3508-13mer peptide	10/11/2005
+	2RFX	Crystal Structure of HLA-B*5701, presenting the self peptide, LSSPVTKSF	7/8/2008
+	4LNR	The structure of HLA-B*35:01 in complex with the peptide (RPQVPLRPMTY)	7/23/2014
+	4G9D	Crystal Structure of HLA B2705-KK10	3/20/2013
+	2ESV	Structure of the HLA-E-VMAPRTLIL/KK50.4 TCR complex	3/21/2006
+	1XH3	Conformational Restraints and Flexibility of 14-Meric Peptides in Complex with HLA-B*3501	11/23/2004
+	5W67	HLA-C*06:02 presenting VRSRR(ABA)LRL	8/23/2017
+	5WMN	Crystal Structure of HLA-B7 in complex with SPI, an influenza peptide	6/6/2018
+	5WMO	Crystal Structure of HLA-B7 in complex with RPP, an EBV peptide	6/6/2018
+	5WMP	Crystal Structure of HLA-B7 in complex with TPR, a CMV peptide	6/6/2018
+	5WMQ	Crystal Structure of HLA-B8 in complex with ELR, an Influenza A virus peptide	6/6/2018
+	5WMR	Crystal Structure of HLA-B8 in complex with QIK, a CMV peptide	6/6/2018
+	1KPR	The human non-classical major histocompatibility complex molecule HLA-E	2/25/2003
+	1KTL	The human non-classical major histocompatibility complex molecule HLA-E	2/25/2003
+	1A1M	MHC CLASS I MOLECULE B*5301 COMPLEXED WITH PEPTIDE TPYDINQML FROM GAG PROTEIN OF HIV2	4/8/1998
+	1A1O	MHC CLASS I MOLECULE B*5301 COMPLEXED WITH PEPTIDE LS6 (KPIVQYDNF) FROM THE MALARIA PARASITE P. FALCIPARUM	4/8/1998
+	1I7R	CRYSTAL STRUCTURE OF CLASS I MHC A2 IN COMPLEX WITH PEPTIDE P1058	10/24/2001
+	1I7T	CRYSTAL STRUCTURE OF CLASS I MHC A2 IN COMPLEX WITH PEPTIDE P1049-5V	10/24/2001
+	1I7U	CRYSTAL STRUCTURE OF CLASS I MHC A2 IN COMPLEX WITH PEPTIDE P1049-6V	10/24/2001
+	3QZW	Plasticity of human CD8 binding to peptide-HLA-A*2402	6/29/2011
+	4HWZ	Structure of HLA-A68 complexed with an HIV derived peptide	10/16/2013
+	5HGB	HLA*A2402 complexed with HIV nef138 8mer epitope	6/8/2016
+	5HGH	HLA*A2402 complexed with HIV nef138 10mer epitope	6/8/2016
+	1T5W	HLA-DR1 in complex with a synthetic peptide (AAYSDQATPLLLSPR)	8/17/2004
+	2X4N	Crystal structure of MHC CLass I HLA-A2.1 bound to residual fragments of a photocleavable peptide that is cleaved upon UV-light treatment	3/2/2010
+	5T6Z	KIR3DL1 in complex with HLA-B*57:01-TW10	3/1/2017
+	2BVP	Structures of Three HIV-1 HLA-B5703-Peptide Complexes and Identification of Related HLAs Potentially Associated with Long-Term Non-Progression	9/7/2005
+	2BVQ	Structures of Three HIV-1 HLA-B5703-Peptide Complexes and Identification of Related HLAs Potentially Associated with Long-Term Non-Progression	9/7/2005
+	4UQ3	Crystal structure of HLA-A0201 in complex with an azobenzene- containing peptide	9/17/2014
+	2YPL	Structural features underlying T-cell receptor sensitivity to concealed MHC class I micropolymorphisms	11/28/2012
+	3SPV	Crystal structure of a peptide-HLA complex	7/4/2012
+	1X7Q	Crystal structure of HLA-A*1101 with sars nucleocapsid peptide	8/2/2005
+	6EWC	Crystal structure of non-phosphorylated form of RLS PHOSPHOPEPTIDE BOUND TO HLA-A2 in complex with LILRB1	11/7/2018
+	1SJH	HLA-DR1 complexed with a 13 residue HIV capsid peptide	8/17/2004
+	1QEW	HUMAN CLASS I HISTOCOMPATIBILITY ANTIGEN (HLA-A 0201) COMPLEX WITH A NONAMERIC PEPTIDE FROM MELANOMA-ASSOCIATED ANTIGEN 3 (RESIDUES 271-279)	11/18/2003
+	2AV1	Crystal structure of HTLV-1 TAX peptide Bound to Human Class I MHC HLA-A2 with the E63Q and K66A mutations in the heavy chain.	10/18/2005
+	2AV7	Crystal structure of HTLV-1 TAX peptide Bound to Human Class I MHC HLA-A2 with the K66A mutation in the heavy chain.	10/18/2005
+	2GIT	Human Class I MHC HLA-A2 in complex with the modified HTLV-1 TAX (Y5K-4-[3-Indolyl]-butyric acid) peptide	10/3/2006
+	2GTW	Human Class I MHC HLA-A2 in complex with the nonameric Melan-A/MART-1(27-35) peptide having A27L substitution	6/12/2007
+	2GTZ	Human Class I MHC HLA-A2 in complex with the nonameric Melan-A/MART-1(27-35) peptide having A28L substitution	6/12/2007
+	3C9N	Crystal Structure of a SARS Corona Virus Derived Peptide Bound to the Human Major Histocompatibility Complex Class I molecule HLA-B*1501	2/26/2008
+	3D39	The complex between TCR A6 and human Class I MHC HLA-A2 with the modified HTLV-1 TAX (Y5(4-fluoroPhenylalanine)) peptide	6/16/2009
+	3D3V	The complex between TCR A6 and human Class I MHC HLA-A2 with the modified HTLV-1 TAX (Y5(3,4-difluoroPhenylalanine)) peptide	6/16/2009
+	3MRI	Crystal Structure of MHC class I HLA-A2 molecule complexed with HCV NS3-1073-1081 nonapeptide G4M-V5W variant	5/25/2011
+	3QDG	The complex between TCR DMF5 and human Class I MHC HLA-A2 with the bound MART-1(26-35)(A27L) peptide	7/6/2011
+	3QDJ	The complex between TCR DMF5 and human Class I MHC HLA-A2 with the bound MART-1(27-35) nonameric peptide	7/6/2011
+	3QDM	The complex between TCR DMF4 and human Class I MHC HLA-A2 with the bound MART-1(26-35)(A27L) decameric peptide	7/6/2011
+	3QEQ	The complex between TCR DMF4 and human Class I MHC HLA-A2 with the bound MART-1(27-35) nonameric peptide	7/6/2011
+	4E5X	Crystal structure of a complex between the human adenovirus type 2 E3-19K protein and MHC class I molecule HLA-A2/Tax	10/10/2012
+	4EUP	The complex between TCR JKF6 and human Class I MHC HLA-A2 presenting the MART-1(27-35)(A27L) peptide	5/1/2013
+	4FTV	The complex between the high affinity version of A6 TCR (A6c134) and human Class I MHC HLA-A2 with the bound TAX nonameric peptide	7/3/2013
+	5TXS	Crystal structure of an anaplastic lymphoma kinase-derived neuroblastoma tumor antigen bound to the Human Major Histocompatibility Complex Class I molecule HLA-B*1501	11/29/2017
+	5VZ5	Crystal structure of an anaplastic lymphoma kinase-derived neuroblastoma tumor antigen bound to the Human Major Histocompatibility Complex Class I molecule HLA-B*1501	3/21/2018
+	6AT9	Crystal structure of an anaplastic lymphoma kinase-derived neuroblastoma tumor antigen bound to the Human Major Histocompatibility Complex Class I molecule HLA-A*0101	3/21/2018
+	3VFR	crystal structure of HLA B*3508LPEP-P4Ala, peptide mutant P4-ala	3/7/2012
+	3VFS	crystal structure of HLA B*3508LPEP-P5Ala , peptide mutant P5-ala	2/22/2012
+	3VFT	crystal structure of HLA B*3508LPEP-P6Ala, peptide mutant P6-ala	2/22/2012
+	4JRX	Crystal Structure of CA5 TCR-HLA B*3505-LPEP complex	4/10/2013
+	4JRY	Crystal Structure of SB47 TCR-HLA B*3505-LPEP complex	4/10/2013
+	3RL1	HIV RT derived peptide complexed to HLA-A*0301	2/29/2012
+	4G8I	Crystal Structure of HLA B2705-KK10-L6M	3/20/2013
+	4LCY	Crystal structure of HLA-b46 at 1.6 angstrom resolution	6/25/2014
+	4QRQ	Crystal Structure of HLA B*0801 in complex with HSKKKCDEL	11/12/2014
+	5WKF	D30 TCR in complex with HLA-A*11:01-GTS1	9/20/2017
+	5WKH	D30 TCR in complex with HLA-A*11:01-GTS3	9/20/2017
+	3BZE	The human non-classical major histocompatibility complex molecule HLA-E	4/29/2008
+	3OX8	Crystal Structure of HLA A*02:03 Bound to HBV Core 18-27	5/4/2011
+	3OXR	Crystal Structure of HLA A*02:06 Bound to HBV Core 18-27	5/4/2011
+	3OXS	Crystal Structure of HLA A*02:07 Bound to HBV Core 18-27	5/4/2011
+	5BRZ	MAGE-A3 reactive TCR in complex with MAGE-A3 in HLA-A1	3/2/2016
+	5C0A	1E6 TCR in complex with HLA-A02 carrying MVW peptide	5/4/2016
+	5IEK	Structure of HLA-B*40:02 in complex with the endogenous peptide REFSKEPEL	12/7/2016
+	5U98	The crystal structure of a self-peptide complexed to Abacavir and HLA-B*57:01	7/19/2017
+	6BXQ	Crystal Structure of HLA-B*57:01 with an HIV peptide RKV	2/28/2018
+	1CG9	COMPLEX RECOGNITION OF THE SUPERTYPIC BW6-DETERMINANT ON HLA-B AND-C MOLECULES BY THE MONOCLONAL ANTIBODY SFR8-B6	11/18/2003
+	5D2L	Crystal structure of TCR C7 in complex with HCMV NLV epitope presented by HLA-A2	10/7/2015
+	5E9D	RD-1 Mart-1 High bound to Mart-1 decameric peptide (ELA) in complex with HLA-A2	6/8/2016
+	5JZI	Crystal structure of 1406 TCR bound to HLA-A2 with HCV 1406-1415 antigen peptide	5/31/2017
+	5YXN	A T cell receptor in complex with HLA-A0201 restricted Hepatitis C virus NS3 peptide (KLVALGINAV)	12/12/2018
+	5YXU	an affinity enhanced T cell receptor in complex with HLA-A0201 restricted HCV NS3 peptide KLVALGINAV	12/12/2018
+	6AM5	Crystal structure of DMF5 TCR bound to HLA-A2 presenting synthetic peptide SMLGIGIVPV	8/8/2018
+	6AMU	Crystal structure of DMF5 TCR bound to HLA-A2 presenting synthetic peptide MMWDRGLGMM	8/15/2018
+	6AVG	Crystal structure of the KFJ37 TCR-NY-ESO-1-HLA-B*07:02 complex	2/28/2018
+	6EWO	Crystal structure of non-phosphorylated form of RTF PHOSPHOPEPTIDE BOUND TO HLA-A2 in complex with LILRB1	11/7/2018
+	3W39	Crystal structure of HLA-B*5201 in complexed with HIV immunodominant epitope (TAFTIPSI)	2/13/2013
+	3SKO	Crystal structure of the HLA-B8-A66-FLR, mutant A66 of the HLA B8	2/29/2012
+	1QRN	CRYSTAL STRUCTURE OF HUMAN A6 TCR COMPLEXED WITH HLA-A2 BOUND TO ALTERED HTLV-1 TAX PEPTIDE P6A	10/14/1999
+	5WWI	Crystal Structure of HLA-A*2402 in complex with avian influenza A(H7N9) virus-derived peptide H7-25 (data set 1)	1/17/2018
+	5WWJ	Crystal Structure of HLA-A*2402 in complex with avian influenza A(H7N9) virus-derived peptide H7-25 (data set 1)	1/17/2018
+	5XOV	Crystal structure of peptide-HLA-A24 bound to S19-2 V-delta/V-beta TCR	6/14/2017
+	1JF1	Crystal structure of HLA-A2*0201 in complex with a decameric altered peptide ligand from the MART-1/Melan-A	9/14/2001
+	1JHT	Crystal structure of HLA-A2*0201 in complex with a nonameric altered peptide ligand (ALGIGILTV) from the MART-1/Melan-A.	9/14/2001
+	3DX7	Crystal Structure of HLA-B*4403 presenting 10mer EBV antigen	1/27/2009
+	3VXN	HLA-A24 in complex with HIV-1 Nef134-10(wt)	10/23/2013
+	3VXO	HLA-A24 in complex with HIV-1 Nef134-10(2F)	10/23/2013
+	3VXP	HLA-A24 in complex with HIV-1 Nef134-10(6L)	10/23/2013
+	3WL9	HLA-A24 in complex with HIV-1 Nef126-10(8I10F)	6/11/2014
+	3WLB	HLA-A24 in complex with HIV-1 Nef126-10(8T10F)	6/11/2014
+	4I48	Structure of HLA-A68 complexed with an HIV Env derived peptide	10/2/2013
+	5HGA	HLA*A2402 complex with HIV nef138 Y2F-8mer mutant epitope	6/8/2016
+	5HGD	HLA*A2402 complexed with HIV nef138 Y2F mutant 10mer epitope	6/8/2016
+	3B6S	Crystal Structure of hla-b*2705 Complexed with the Citrullinated Vasoactive Intestinal Peptide Type 1 Receptor (vipr) Peptide (residues 400-408)	7/22/2008
+	2D31	Crystal structure of disulfide-linked HLA-G dimer	3/14/2006
+	1B6U	CRYSTAL STRUCTURE OF THE HUMAN KILLER CELL INHIBITORY RECEPTOR (KIR2DL3) SPECIFIC FOR HLA-CW3 RELATED ALLELES	1/27/1999
+	1EEY	Crystal Structure Determination Of HLA A2 Complexed to Peptide GP2 with the substitution (I2L/V5L/L9V)	6/10/2003
+	1EEZ	Crystal Structure Determination of HLA-A2.1 Complexed to GP2 Peptide Variant(I2L/V5L)	6/10/2003
+	1N2R	A natural selected dimorphism in HLA B*44 alters self, peptide reportoire and T cell recognition.	3/16/2004
+	2NX5	Crystal structure of ELS4 TCR bound to HLA-B*3501 presenting EBV peptide EPLPQGQLTAY at 1.7A	2/27/2007
+	3L3D	Crystal structure of HLA-B*4402 in complex with the F3A mutant of a self-peptide derived from DPA*0201	3/16/2010
+	3L3G	Crystal structure of HLA-B*4402 in complex with the R5A mutant of a self-peptide derived from DPA*0201	3/16/2010
+	3L3I	Crystal structure of HLA-B*4402 in complex with the F7A mutant of a self-peptide derived from DPA*0201	3/16/2010
+	3L3J	Crystal structure of HLA-B*4402 in complex with the F3A/R5A double mutant of a self-peptide derived from DPA*0201	3/16/2010
+	3L3K	Crystal structure of HLA-B*4402 in complex with the R5A/F7A double mutant of a self-peptide derived from DPA*0201	3/16/2010
+	4L3C	Structure of HLA-A2 in complex with D76N b2m mutant and NY-ESO1 double mutant	12/25/2013
+	4NO0	Crystal structure of non-phosphorylated form of RQA_V phosphopeptide bound to HLA-A2 in complex with LILRB1	11/19/2014
+	5IRO	Crystal structure of a complex between the Human adenovirus type 4 E3-19K protein and MHC class molecule HLA-A2/TAX	8/24/2016
+	2G9H	Crystal Structure of Staphylococcal Enterotoxin I (SEI) in Complex with a Human MHC class II Molecule	7/11/2006
+	3LN4	Crystal structure of HLA-B*4103 in complex with a 16mer self-peptide derived from heterogeneous nuclear ribonucleoproteins C1/C2	10/20/2010
+	3LN5	Crystal structure of HLA-B*4104 in complex with a 11mer self-peptide derived from S-methyl-5-thioadenosine phosphorylase	10/20/2010
+	1MHE	THE HUMAN NON-CLASSICAL MAJOR HISTOCOMPATIBILITY COMPLEX MOLECULE HLA-E	3/23/1999
+	1T5X	HLA-DR1 in complex with a synthetic peptide (AAYSDQATPLLLSPR) and the superantigen SEC3-3B2	8/17/2004
+	6ATF	HLA-DRB1*1402 in complex with Vimentin59-71	9/13/2017
+	6ATI	HLA-DRB1*1402 in complex with Vimentin-64Cit59-71	9/13/2017
+	3L6F	Structure of MHC class II molecule HLA-DR1 complexed with phosphopeptide MART-1	5/12/2010
+	4OV5	Structure of HLA-DR1 with a bound peptide with non-optimal alanine in the P1 pocket	7/16/2014
+	6AVF	Crystal structure of the KFJ5 TCR-NY-ESO-1-HLA-B*07:02 complex	2/28/2018
+	2BVO	Structures of Three HIV-1 HLA-B5703-Peptide Complexes and Identification of Related HLAs Potentially Associated with Long-Term Non-Progression	9/13/2005
+	3VRI	HLA-B*57:01-RVAQLENVYI in complex with abacavir	5/30/2012
+	3VRJ	HLA-B*57:01-LTTKLTNTNI in complex with abacavir	5/30/2012
+	3VH8	KIR3DL1 in complex with HLA-B*5701	10/26/2011
+	5T70	KIR3DL1 in complex with HLA-B*57:01 presenting TSNLQEQIGW	3/1/2017
+	2A83	Crystal structure of hla-b*2705 complexed with the glucagon receptor (gr) peptide (residues 412-420)	12/27/2005
+	2C7U	Conflicting selective forces affect CD8 T-cell receptor contact sites in an HLA-A2 immunodominant HIV epitope.	3/8/2006
+	3CZF	Crystal structure of HLA-B*2709 complexed with the glucagon receptor (GR) peptide (residues 412-420)	4/7/2009
+	3NFN	Recognition of peptide-MHC by a V-delta/V-beta TCR	7/13/2011
+	5WXC	Crystal Structure of HLA-A*2402 in complex with avian influenza A(H7N9) virus-derived peptide H7-25 (data set 2)	1/17/2018
+	5WXD	Crystal Structure of HLA-A*2402 in complex with avian influenza A(H7N9) virus-derived peptide H7-25 (data set 1)	1/17/2018
+	1LP9	Xenoreactive complex AHIII 12.2 TCR bound to p1049/HLA-A2.1	11/11/2003
+	1FO0	MURINE ALLOREACTIVE SCFV TCR-PEPTIDE-MHC CLASS I MOLECULE COMPLEX	10/2/2000
+	3FFC	Crystal Structure of CF34 TCR in complex with HLA-B8/FLR	1/27/2009
+	3FT3	Crystal Structure of the minor histocompatibility peptide HA-1His in complex with HLA-A2	4/28/2009
+	3FT4	Crystal Structure of the minor histocompatibility peptide HA-1Arg in complex with HLA-A2	4/28/2009
+	3GSO	Crystal structure of the binary complex between HLA-A2 and HCMV NLV peptide	8/4/2009
+	3KPM	Crystal Structure of HLA B*4402 in complex with EEYLKAWTF, a mimotope	12/22/2009
+	3KPO	Crystal Structure of HLA B*4403 in complex with EEYLKAWTF, a mimotope	12/22/2009
+	3KPQ	Crystal Structure of HLA B*4405 in complex with EEYLKAWTF, a mimotope	12/22/2009
+	3RL2	HIV Nef derived peptide Nef73 complexed to HLA-A*0301	2/29/2012
+	3UPR	HLA-B*57:01 complexed to pep-V and Abacavir	6/13/2012
+	3VCL	Crystal Structure of HLA-B7 with the HCMV pp65 peptide RPHERNGFTVL	11/21/2012
+	4JFO	A2 HLA complex with E1A heteroclitic variant of Melanoma peptide	5/29/2013
+	4JFP	A2 HLA complex with G4A heteroclitic variant of Melanoma peptide	5/29/2013
+	4JFQ	A2 HLA complex with L8A heteroclitic variant of Melanoma peptide	5/29/2013
+	4N8V	Crystal structure of killer cell immunoglobulin-like receptor KIR2DS2 in complex with HLA-A	2/5/2014
+	4NQV	Crystal Structure of HLA A*0101 in complex with NP44, an 9-mer influenza epitope	12/25/2013
+	4QRP	Crystal Structure of HLA B*0801 in complex with HSKKKCDEL and DD31 TCR	11/12/2014
+	4QRS	Crystal Structure of HLA B*0801 in complex with ELK_IYM, ELKRKMIYM	12/10/2014
+	4QRT	Crystal Structure of HLA B*0801 in complex with ELN_YYM, ELNRKMIYM	7/16/2014
+	4QRU	Crystal Structure of HLA B*0801 in complex with ELR_MYM, ELRRKMMYM	2/4/2015
+	5BS0	MAGE-A3 Reactive TCR in complex with Titin Epitope in HLA-A1	3/2/2016
+	3C5Z	Crystal structure of mouse MHC class II I-Ab/3K peptide complexed with mouse TCR B3K506	4/29/2008
+	1XR8	Crystal Structures of HLA-B*1501 in Complex with Peptides from Human UbcH6 and Epstein-Barr Virus EBNA-3	4/14/2005
+	1A9B	DECAMER-LIKE CONFORMATION OF A NANO-PEPTIDE BOUND TO HLA-B3501 DUE TO NONSTANDARD POSITIONING OF THE C-TERMINUS	10/21/1998
+	1A9E	DECAMER-LIKE CONFORMATION OF A NANO-PEPTIDE BOUND TO HLA-B3501 DUE TO NONSTANDARD POSITIONING OF THE C-TERMINUS	10/21/1998
+	5WWU	Crystal Structure of HLA-A*2402 in complex with 2009 pandemic influenza A(H1N1) virus and avian influenza A(H5N1) virus-derived peptide H1-25	1/17/2018
+	2H6P	Crystal structure of HLA-B*3501 presenting the human cytochrome P450 derived peptide, KPIVVLHGY	9/19/2006
+	4F7M	Crystal Structure of HLA-A*2402 Complexed with a Newly Identified Peptide from 2009 H1N1 PA (649-658)	10/10/2012
+	4F7P	Crystal Structure of HLA-A*2402 Complexed with a Newly Identified Peptide from 2009H1N1 PB1 (496-505)	10/10/2012
+	4F7T	Crystal Structure of HLA-A*2402 Complexed with a Newly Identified Peptide from 2009 H1N1 PB1 (498-505)	10/10/2012
+	4JQV	HLA-B*18:01 in complex with Epstein-Barr virus BZLF1-derived peptide (residues 173-180)	6/26/2013
+	4JQX	HLA-B*44:03 in complex with Epstein-Barr virus BZLF1-derived peptide (residues 169-180)	6/26/2013
+	5IEH	Structure of HLA-B*40:02 in complex with the phosphorylated endogenous peptide REF(p)SKEPEL	12/7/2016
+	2V2W	T CELL CROSS-REACTIVITY AND CONFORMATIONAL CHANGES DURING TCR ENGAGEMENT	11/6/2007
+	2V2X	T cell cross-reactivity and conformational changes during TCR engagement.	11/6/2007
+	1SJE	HLA-DR1 complexed with a 16 residue HIV capsid peptide bound in a hairpin conformation	8/17/2004
+	6ATZ	HLA-DRB1*1402 in complex with citrullinated fibrinogen peptide	9/20/2017
+	3FQN	Phosphorylation of self-peptides alters Human Leukocyte Antigen Class I-restricted antigen presentation and generates tumor specific epitopes	3/3/2009
+	3FQR	Phosphorylation of self-peptides alters Human Leukocyte Antigen Class I-restricted antigen presentation and generates tumor specific epitopes	3/3/2009
+	3FQT	Phosphorylation of self-peptides alters Human Leukocyte Antigen Class I-restricted antigen presentation and generates tumor specific epitopes	3/3/2009
+	3FQU	Phosphorylation of self-peptides alters Human Leukocyte Antigen Class I-restricted antigen presentation and generates tumor specific epitopes	3/3/2009
+	3FQW	Phosphorylation of self-peptides alters Human Leukocyte Antigen Class I-restricted antigen presentation and generates tumor specific epitopes	3/3/2009
+	3FQX	Phosphorylation of self-peptides alters Human Leukocyte Antigen Class I-restricted antigen presentation and generates tumor specific epitopes	3/3/2009
+	2BCK	Crystal Structure of HLA-A*2402 Complexed with a telomerase peptide	1/10/2006
+	3CII	Structure of NKG2A/CD94 bound to HLA-E	5/13/2008
+	1ZHK	Crystal structure of HLA-B*3501 presenting 13-mer EBV antigen LPEPLPQGQLTAY	5/17/2005
+	1ZHL	Crystal structure of HLA-B*3508 presenting 13-mer EBV antigen LPEPLPQGQLTAY	5/17/2005
+	3VFU	crystal structure of HLA B*3508 LPEP-P7Ala, peptide mutant P7-ala	2/22/2012
+	3VFV	crystal structure of HLA B*3508 LPEP-P9Ala, peptide mutant P9-ala	2/22/2012
+	3VFW	crystal structure of HLA B*3508 LPEP-P10Ala, peptide mutant P10-ala	2/22/2012
+	3KYN	Crystal structure of HLA-G presenting KGPPAALTL peptide	2/23/2010
+	3KYO	Crystal structure of HLA-G presenting KLPAQFYIL peptide	2/23/2010
+	1S9W	Crystal Structure Analysis of NY-ESO-1 epitope, SLLMWITQC, in complex with HLA-A2	9/28/2004
+	1S9X	Crystal Structure Analysis of NY-ESO-1 epitope analogue, SLLMWITQA, in complex with HLA-A2	9/28/2004
+	1S9Y	Crystal Structure Analysis of NY-ESO-1 epitope analogue, SLLMWITQS, in complex with HLA-A2	9/28/2004
+	1ZSD	Crystal Structure Of HLA-B*3501 Presenting an 11-Mer EBV Antigen EPLPQGQLTAY	6/7/2005
+	2BST	Crystal structures and KIR3DL1 recognition of three immunodominant viral peptides complexed to HLA-B2705	5/24/2005
+	5E6I	Crystal structure of TCR PF8 in complex with flu MP(58-66) epitope presented by HLA-A2	10/19/2016
+	5V5L	Crystal structure of HLA-B*5801 complex with HIV-1 gag derived peptide TW10	6/14/2017
+	5V5M	Crystal structure of HLA-B*5701 complex with HIV-1 gag derived peptide TW10	6/14/2017
+	6BXP	Crystal Structure of HLA-B*57:01 with a modified HIV peptide RKV-Kyn	3/14/2018
+	3WUW	KIR3DL1 in complex with HLA-B*57:01.I80T	5/28/2014
+	1TMC	THE THREE-DIMENSIONAL STRUCTURE OF A CLASS I MAJOR HISTOCOMPATIBILITY COMPLEX MOLECULE MISSING THE ALPHA3 DOMAIN OF THE HEAVY CHAIN	3/31/1995
+	2CLR	THREE DIMENSIONAL STRUCTURE OF A PEPTIDE EXTENDING OUT ONE END OF A CLASS I MHC BINDING SITE	3/31/1995
+	1JGE	HLA-B*2705 bound to nona-peptide m9	10/30/2002
+	5VVP	HLA-B*57:03 presenting LSSPVTKSW	10/3/2018
+	3BO8	The High Resolution Crystal Structure of HLA-A1 Complexed with the MAGE-A1 Peptide	12/23/2008
+	3MV7	Crystal Structure of the TK3 TCR in complex with HLA-B*3501/HPVG	6/9/2010
+	3MV8	Crystal Structure of the TK3-Gln55His TCR in complex with HLA-B*3501/HPVG	6/9/2010
+	3MV9	Crystal Structure of the TK3-Gln55Ala TCR in complex with HLA-B*3501/HPVG	6/9/2010
+	4PR5	Crystal structure of a HLA-B*35:01-HPVG-D5	4/16/2014
+	4PRA	Crystal structure of a HLA-B*35:01-HPVG-Q5	4/16/2014
+	4PRB	Crystal structure of a HLA-B*35:08-HPVG-A4	4/16/2014
+	4PRD	Crystal structure of a HLA-B*35:08-HPVG-D5	4/16/2014
+	4PRE	Crystal structure of a HLA-B*35:08-HPVG-Q5	4/16/2014
+	4PRI	Crystal structure of TK3 TCR-HLA-B*35:08-HPVG complex	4/16/2014
+	4PRN	Crystal structure of a HLA-B*35:01-HPVG-A4	4/16/2014
+	5IB2	Crystal structure of HLA-B*27:05 complexed with the self-peptide pVIPR	2/1/2017
+	1XR9	Crystal Structures of HLA-B*1501 in Complex with Peptides from Human UbcH6 and Epstein-Barr Virus EBNA-3	4/14/2005
+	3BP4	The high resolution crystal structure of HLA-B*2705 in complex with a Cathepsin A signal sequence peptide pCatA	12/23/2008
+	3BP7	The high resolution crystal structure of HLA-B*2709 in complex with a Cathepsin A signal sequence peptide, pCatA	12/23/2008
+	5MEQ	Human Leukocyte Antigen A02 presenting ILAKFLHTL	12/7/2016
+	2GJ6	The complex between TCR A6 and human Class I MHC HLA-A2 with the modified HTLV-1 TAX (Y5K-4-[3-Indolyl]-butyric acid) peptide	10/3/2006
+	2CIK	Insights Into Crossreactivity in Human Allorecognition: The Structure of HLA-B35011 Presenting an Epitope derived from Cytochrome P450.	10/25/2006
+	3DXA	Crystal Structure of the DM1 TCR in complex with HLA-B*4405 and decamer EBV antigen	1/27/2009
+	3I6L	Newly identified epitope N1 derived from SARS-CoV N protein complexed with HLA-A*2402	7/14/2010
+	3VXM	The complex between C1-28 TCR and HLA-A24 bound to HIV-1 Nef134-10(2F) peptide	10/23/2013
+	3VXR	The complex between H27-14 TCR and HLA-A24 bound to HIV-1 Nef134-10(wt) peptide	10/23/2013
+	3VXS	The complex between H27-14 TCR and HLA-A24 bound to HIV-1 Nef134-10(6L) peptide	10/23/2013
+	3VXU	The complex between T36-5 TCR and HLA-A24 bound to HIV-1 Nef134-10(2F) peptide	10/23/2013
+	6AT5	Crystal structure of HLA-B*07:02 in complex with an NY-ESO-1 peptide	2/28/2018
+	5VWD	HLA-B*57:03 presenting LTVQVARVW	10/3/2018
+	5VWF	HLA-B*58:03 presenting LTVQVARVY	10/3/2018
+	1AQD	HLA-DR1 (DRA, DRB1 0101) HUMAN CLASS II HISTOCOMPATIBILITY PROTEIN (EXTRACELLULAR DOMAIN) COMPLEXED WITH ENDOGENOUS PEPTIDE	1/28/1998
+	6GH1	HLA-E*01:03 in complex with Mtb44	8/8/2018
+	1ZGL	Crystal structure of 3A6 TCR bound to MBP/HLA-DR2a	10/18/2005
+	5V4M	Structure of HLA-DR15 with bound alpha3(135-145) peptide	5/3/2017
+	2HLA	SPECIFICITY POCKETS FOR THE SIDE CHAINS OF PEPTIDE ANTIGENS IN HLA-AW68	4/15/1990
+	5MER	Human Leukocyte Antigen A02 presenting ILAKFLHEL	12/7/2016
+	3I6K	Newly identified epitope from SARS-CoV membrane protein complexed with HLA-A*0201	6/16/2010
+	1W72	Crystal structure of HLA-A1:MAGE-A1 in complex with Fab-Hyb3	11/9/2004
+	3D18	Crystal structure of HLA-B*2709 complexed with a variant of the latent membrane protein 2 peptide (LMP2(L)) of epstein-barr virus	5/5/2009
+	4L3E	The complex between high affinity TCR DMF5(alpha-D26Y,beta-L98W) and human Class I MHC HLA-A2 with the bound MART-1(26-35)(A27L) peptide	6/11/2014
+	2AXF	The Immunogenicity of a Viral Cytotoxic T Cell Epitope is controlled by its MHC-bound Conformation	11/29/2005
+	2AXG	The Immunogenicity of a Viral Cytotoxic T Cell Epitope is controlled by its MHC-bound Conformation	11/29/2005
+	3B3I	Citrullination-dependent differential presentation of a self-peptide by HLA-B27 subtypes	7/22/2008
+	2FYY	The role of T cell receptor alpha genes in directing human MHC restriction	12/26/2006
+	2FZ3	The role of T cell receptor alpha genes in directing human MHC restriction	12/26/2006
+	1QVO	STRUCTURES OF HLA-A*1101 IN COMPLEX WITH IMMUNODOMINANT NONAMER AND DECAMER HIV-1 EPITOPES CLEARLY REVEAL THE PRESENCE OF A MIDDLE ANCHOR RESIDUE	6/1/2004
+	1UXS	CRYSTAL STRUCTURE OF HLA-B*2705 COMPLEXED WITH THE LATENT MEMBRANE PROTEIN 2 PEPTIDE (LMP2)OF EPSTEIN-BARR VIRUS	11/9/2004
+	1UXW	CRYSTAL STRUCTURE OF HLA-B*2709 COMPLEXED WITH THE LATENT MEMBRANE PROTEIN 2 PEPTIDE (LMP2) OF EPSTEIN-BARR VIRUS	11/9/2004
+	3FT2	Crystal Structure of a citrulline peptide variant of the minor histocompatibility peptide HA-1 in complex with HLA-A2	4/28/2009
+	3GSN	Crystal structure of the public RA14 TCR in complex with the HCMV dominant NLV/HLA-A2 epitope	8/4/2009
+	3GSQ	Crystal structure of the binary complex between HLA-A2 and HCMV NLV-M5S peptide variant	8/4/2009
+	3GSR	Crystal structure of the binary complex between HLA-A2 and HCMV NLV-M5V peptide variant	8/4/2009
+	3GSU	Crystal structure of the binary complex between HLA-A2 and HCMV NLV-M5T peptide variant	8/4/2009
+	3GSV	Crystal structure of the binary complex between HLA-A2 and HCMV NLV-M5Q peptide variant	8/4/2009
+	3GSW	Crystal structure of the binary complex between HLA-A2 and HCMV NLV-T8A peptide variant	8/4/2009
+	3GSX	Crystal structure of the binary complex between HLA-A2 and HCMV NLV-T8V peptide variant	8/4/2009
+	3KPL	Crystal Structure of HLA B*4402 in complex with EEYLQAFTY a self peptide from the ABCD3 protein	12/22/2009
+	3KPN	Crystal Structure of HLA B*4403 in complex with EEYLQAFTY a self peptide from the ABCD3 protein	12/22/2009
+	3KPP	Crystal Structure of HLA B*4405 in complex with EEYLQAFTY a self peptide from the ABCD3 protein	12/22/2009
+	3KPR	Crystal Structure of the LC13 TCR in complex with HLA B*4405 bound to EEYLKAWTF a mimotope	12/22/2009
+	3KPS	Crystal Structure of the LC13 TCR in complex with HLA B*4405 bound to EEYLQAFTY a self peptide from the ABCD3 protein	12/22/2009
+	3KWW	Crystal structure of the 'restriction triad' mutant of HLA B*3508, beta-2-microglobulin and EBV peptide	6/9/2010
+	3KXF	Crystal Structure of SB27 TCR in complex with the 'restriction triad' mutant HLA-B*3508-13mer	6/9/2010
+	3LKN	Crystal Structure of HLA B*3501 in complex with influenza NP418 epitope from 1918 strain	7/7/2010
+	3LKO	Crystal Structure of HLA B*3501 in complex with influenza NP418 epitope from 1934 strain	7/7/2010
+	3LKP	Crystal Structure of HLA B*3501 in complex with influenza NP418 epitope from 1972 strain	7/7/2010
+	3LKQ	Crystal Structure of HLA B*3501 in complex with influenza NP418 epitope from 1977 strain	7/7/2010
+	3LKR	Crystal Structure of HLA B*3501 in complex with influenza NP418 epitope from 2009 H1N1 swine origin strain	7/7/2010
+	3LKS	Crystal Structure of HLA B*3501 in complex with influenza NP418 epitope from 1980 strain	7/7/2010
+	4K7F	Newly identified epitope V60 from HBV core protein complexed with HLA-A*0201	6/5/2013
+	4MJ5	Crystal Structure of HLA-A*1101 in complex with H1-22, an influenza A(H1N1) virus epitope	10/8/2014
+	4MJ6	Crystal Structure of HLA-A*1101 in complex with H7-22, an influenza A(H7N9) virus epitope	10/8/2014
+	4MJI	T cell response to a HIV reverse transcriptase epitope presented by the protective allele HLA-B*51:01	5/28/2014
+	4NQX	Crystal Structure of HLA A*0101 in complex with NP44-S7N, an 9-mer influenza epitope	12/25/2013
+	4WJ5	Structure of HLA-A2 in complex with an altered peptide ligands based on Mart-1 variant epitope	10/29/2014
+	3H8N	Crystal Structure Analysis of KIR2DS4	10/20/2009
+	1S8D	Structural basis for degenerate recognition of HIV peptide variants by cytotoxic lymphocyte, variant SL9-3A	9/6/2005
+	1T1X	Structural basis for degenerate recognition of HIV peptide variants by cytotoxic lymphocyte, variant SL9-4L	9/6/2005
+	1T1Y	Structural basis for degenerate recognition of HIV peptide variants by cytotoxic lymphocyte, variant SL9-5V	9/6/2005
+	1T1Z	Structural basis for degenerate recognition of HIV peptide variants by cytotoxic lymphocyte, variant SL9-6A	9/6/2005
+	1T20	Structural basis for degenerate recognition of HIV peptide variants by cytotoxic lymphocyte, variant SL9-6I	9/6/2005
+	1T21	Structural basis for degenerate recognition of HIV peptide variants by cytotoxic lymphocyte, variant SL9, monoclinic crystal	9/6/2005
+	1T22	Structural basis for degenerate recognition of HIV peptide variants by cytotoxic lymphocyte, variant SL9, orthorhombic crystal	9/6/2005
+	2UWE	Large CDR3a loop alteration as a function of MHC mutation	9/25/2007
+	5C0I	HAL-A02 carrying RQFGPDFPTI	5/4/2016
+	3W0W	The complex between T36-5 TCR and HLA-A24 bound to HIV-1 Nef134-10(2F) peptide in space group P212121	11/6/2013
+	1AGB	ANTAGONIST HIV-1 GAG PEPTIDES INDUCE STRUCTURAL CHANGES IN HLA B8-HIV-1 GAG PEPTIDE (GGRKKYKL-3R MUTATION)	6/16/1997
+	1AGC	ANTAGONIST HIV-1 GAG PEPTIDES INDUCE STRUCTURAL CHANGES IN HLA B8-HIV-1 GAG PEPTIDE (GGKKKYQL-7Q MUTATION)	6/16/1997
+	1AGD	ANTAGONIST HIV-1 GAG PEPTIDES INDUCE STRUCTURAL CHANGES IN HLA B8-HIV-1 GAG PEPTIDE (GGKKKYKL-INDEX PEPTIDE)	6/16/1997
+	1AGE	ANTAGONIST HIV-1 GAG PEPTIDES INDUCE STRUCTURAL CHANGES IN HLA B8-HIV-1 GAG PEPTIDE (GGKKKYRL-7R MUTATION)	6/16/1997
+	1AGF	ANTAGONIST HIV-1 GAG PEPTIDES INDUCE STRUCTURAL CHANGES IN HLA B8-HIV-1 GAG PEPTIDE (GGKKRYKL-5R MUTATION)	6/16/1997
+	4HX1	Structure of HLA-A68 complexed with a tumor antigen derived peptide	10/2/2013
+	1R5I	Crystal structure of the MAM-MHC complex	3/16/2004
+	5MEO	Human Leukocyte Antigen presenting ILGKFLHRL	12/7/2016
+	1S9V	Crystal structure of HLA-DQ2 complexed with deamidated gliadin peptide	3/2/2004
+	1E28	Nonstandard peptide binding of HLA-B*5101 complexed with HIV immunodominant epitope KM2(TAFTIPSI)	9/12/2000
+	1W0V	Crystal Structure Of HLA-B*2705 Complexed With the self-Peptide TIS from EGF-response factor 1	3/7/2005
+	1W0W	Crystal Structure Of HLA-B*2709 Complexed With the self-Peptide TIS from EGF-response factor 1	3/7/2005
+	5IB1	Crystal structure of HLA-B*27:05 complexed with the self-peptide pVIPR measured at 295 K	2/1/2017
+	5IB3	Crystal structure of HLA-B*27:05 complexed with the self-peptide pVIPR and Copper	2/1/2017
+	5IB4	Crystal structure of HLA-B*27:05 complexed with the self-peptide pVIPR and Nickel	2/1/2017
+	5IB5	Crystal structure of HLA-B*27:09 complexed with the self-peptide pVIPR and Copper	2/1/2017
+	1E27	Nonstandard peptide binding of HLA-B*5101 complexed with HIV immunodominant epitope KM1(LPPVVAKEI)	9/12/2000
+	5UJT	Crystal structure of human HLA-DQ8 in complex with insulin mimotope binding in register 3	12/20/2017
+	3SKM	Crystal structure of the HLA-B8FLRGRAYVL, mutant G8V of the FLR peptide	2/29/2012
+	2BSR	Crystal structures and KIR3DL1 recognition of three immunodominant viral peptides complexed to HLA-B2705	5/24/2005
+	3BW9	Crystal Structure of HLA B*3508 in complex with a HCMV 12-mer peptide from the pp65 protein	4/22/2008
+	3BWA	Crystal Structure of HLA B*3508 in complex with a HCMV 8-mer peptide from the pp65 protein	4/22/2008
+	3MGO	Crystal structure of a H5-specific CTL epitope derived from H5N1 influenza virus in complex with HLA-A*0201	5/19/2010
+	3MGT	Crystal structure of a H5-specific CTL epitope variant derived from H5N1 influenza virus in complex with HLA-A*0201	5/19/2010
+	4PRP	Crystal structure of TK3 TCR-HLA-B*35:01-HPVG-Q5 complex	4/16/2014
+	6GL1	HLA-E*01:03 in complex with the HIV epitope, RL9HIV	8/8/2018
+	4GKN	A2-MHC Complex carrying FATGIGIITV	9/12/2012
+	2IAM	Structural basis for recognition of mutant self by a tumor-specific, MHC class II-restricted TCR	4/3/2007
+	2IAN	Structural basis for recognition of mutant self by a tumor-specific, MHC class II-restricted TCR	4/3/2007
+	3BVN	High resolution crystal structure of HLA-B*1402 in complex with the latent membrane protein 2 peptide (LMP2) of Epstein-Barr virus	2/3/2009
+	3SJV	Crystal structure of the RL42 TCR in complex with HLA-B8-FLR	2/29/2012
+	5MEP	Human Leukocyte Antigen A02 presenting ILGKFLHWL	12/7/2016
+	2WBJ	TCR complex	4/7/2009
+	3DTX	Crystal structure of HLA-B*2705 complexed with the double citrullinated vasoactive intestinal peptide type 1 receptor (VIPR) peptide (residues 400-408)	5/5/2009
+	3HCV	Crystal structure of HLA-B*2709 complexed with the double citrullinated vasoactive intestinal peptide type 1 receptor (VIPR) peptide (residues 400-408)	6/9/2009
+	3LV3	Crystal structure of HLA-B*2705 complexed with a peptide derived from the human voltage-dependent calcium channel alpha1 subunit (residues 513-521)	11/24/2010
+	3TO2	Structure of HLA-A*0201 complexed with peptide Md3-C9 derived from a clustering region of restricted cytotoxic T lymphocyte epitope from SARS-CoV M protein	8/29/2012
+	3UTT	1E6-A*0201-ALWGPDPAAA Complex, Triclinic	1/25/2012
+	3UTS	1E6-A*0201-ALWGPDPAAA Complex, Monoclinic	1/25/2012
+	1I4F	CRYSTAL STRUCTURE OF HLA-A*0201/MAGE-A4-PEPTIDE COMPLEX	7/25/2001
+	2DYP	Crystal Structure of LILRB2(LIR2/ILT4/CD85d) complexed with HLA-G	11/7/2006
+	5VGE	Crystal structure of HLA-C*07:02 in complex with RYR peptide	6/7/2017
+	6CQQ	Crystal structure of F24 TCR -DR15-RQ13 peptide complex	6/6/2018
+	5NHT	human 199.54-16 TCR in complex with Melan-A/MART-1 (26-35) peptide and HLA-A2	5/16/2018
+	5NQK	human 199.16 TCR in complex with Melan-A/MART-1 (26-35) peptide and HLA-A2	5/30/2018
+	4QRR	Crystal Structure of HLA B*3501-IPS in complex with a Delta-Beta TCR, clone 12 TCR	12/10/2014
+	2BSS	Crystal structures and KIR3DL1 recognition of three immunodominant viral peptides complexed to HLA-B2705	5/24/2005
+	2VLL	The Structural Dynamics and Energetics of an Immunodominant T-cell Receptor are Programmed by its Vbeta Domain	1/22/2008
+	5DEG	Crystal structure of B*27:06 bound to the pVIPR peptide	11/18/2015
+	2IPK	Crystal Structure of the MHC Class II Molecule HLA-DR1 in Complex with the Fluorogenic Peptide, AcPKXVKQNTLKLAT (X=3-[5-(dimethylamino)-1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl]-L-alanine) and the Superantigen, SEC3 Variant 3B2	3/13/2007
+	1HSB	DIFFERENT LENGTH PEPTIDES BIND TO HLA-AW68 SIMILARLY AT THEIR ENDS BUT BULGE OUT IN THE MIDDLE	10/31/1993
+	1AO7	COMPLEX BETWEEN HUMAN T-CELL RECEPTOR, VIRAL PEPTIDE (TAX), AND HLA-A 0201	9/17/1997
+	5KS9	Bel502-DQ8-glia-alpha1 complex	9/21/2016
+	1HSA	THE THREE-DIMENSIONAL STRUCTURE OF HLA-B27 AT 2.1 ANGSTROMS RESOLUTION SUGGESTS A GENERAL MECHANISM FOR TIGHT PEPTIDE BINDING TO MHC	10/15/1992
+	1Q94	Structures of HLA-A*1101 in complex with immunodominant nonamer and decamer HIV-1 epitopes clearly reveal the presence of a middle anchor residue	6/1/2004
+	1QSF	STRUCTURE OF A6-TCR BOUND TO HLA-A2 COMPLEXED WITH ALTERED HTLV-1 TAX PEPTIDE Y8A	12/21/1999
+	6CQR	Crystal structure of F24 TCR -DR1-RQ13 peptide complex	6/6/2018
+	4OZG	D2 protein complex	4/16/2014
+	4OZH	S16 protein complex	4/16/2014
+	4OZI	S2 protein complex	4/16/2014
+	6CQJ	Crystal structure of DR1 presenting the RQ13 peptide	6/6/2018
+	1B0R	CRYSTAL STRUCTURE OF HLA-A*0201 COMPLEXED WITH A PEPTIDE WITH THE CARBOXYL-TERMINAL GROUP SUBSTITUTED BY A METHYL GROUP	11/25/1999
+	4PRH	Crystal structure of TK3 TCR-HLA-B*35:08-HPVG-D5 complex	4/30/2014
+	1OGT	CRYSTAL STRUCTURE OF HLA-B*2705 COMPLEXED WITH THE VASOACTIVE INTESTINAL PEPTIDE TYPE 1 RECEPTOR (VIPR) PEPTIDE (RESIDUES 400-408)	1/29/2004
+	2J8U	Large CDR3a loop alteration as a function of MHC mutation.	10/16/2007
+	2VLJ	The Structural Dynamics and Energetics of an Immunodominant T-cell Receptor are Programmed by its Vbeta Domain	1/22/2008
+	2VLK	The Structural Dynamics and Energetics of an Immunodominant T-cell Receptor are Programmed by its Vbeta Domain	1/22/2008
+	2VLR	The Structural Dynamics and Energetics of an Immunodominant T-cell Receptor are Programmed by its Vbeta Domain	1/22/2008
+	2DLI	KILLER IMMUNOGLOBULIN RECEPTOR 2DL2,TRIGONAL FORM	1/13/2000
+	1MI5	The crystal structure of LC13 TcR in complex with HLAB8-EBV peptide complex	2/4/2003
+	3GIV	Antigen processing influences HIV-specific cytotoxic T lymphocyte immunodominance	6/30/2009
+	1T1W	Structural basis for degenerate recognition of HIV peptide variants by cytotoxic lymphocyte, variant SL9-3F6I8V	9/6/2005
+	3AM8	Crystal Structure of a Human Major Histocompatibilty complex	8/24/2011
+	1HHG	THE ANTIGENIC IDENTITY OF PEPTIDE(SLASH)MHC COMPLEXES: A COMPARISON OF THE CONFORMATION OF FIVE PEPTIDES PRESENTED BY HLA-A2	10/31/1993
+	1HHH	THE ANTIGENIC IDENTITY OF PEPTIDE(SLASH)MHC COMPLEXES: A COMPARISON OF THE CONFORMATION OF FIVE PEPTIDES PRESENTED BY HLA-A2	10/31/1993
+	1HHI	THE ANTIGENIC IDENTITY OF PEPTIDE(SLASH)MHC COMPLEXES: A COMPARISON OF THE CONFORMATION OF FIVE PEPTIDES PRESENTED BY HLA-A2	10/31/1993
+	1HHJ	THE ANTIGENIC IDENTITY OF PEPTIDE(SLASH)MHC COMPLEXES: A COMPARISON OF THE CONFORMATION OF FIVE PEPTIDES PRESENTED BY HLA-A2	10/31/1993
+	1P7Q	Crystal Structure of HLA-A2 Bound to LIR-1, a Host and Viral MHC Receptor	10/14/2003
+	1QSE	STRUCTURE OF HUMAN A6-TCR BOUND TO HLA-A2 COMPLEXED WITH ALTERED HTLV-1 TAX PEPTIDE V7R	12/21/1999
+	6GH4	HLA-E*01:03 in complex with the Mtb44 peptide variant: Mtb44*P2-Gln.	8/8/2018
+	5MEN	Human Leukocyte Antigen A02 presenting ILAKFLHWL, in complex with cognate T-Cell Receptor	12/7/2016
+	5DEF	Crystal structure of B*27:04 complex bound to the pVIPR peptide	11/18/2015
+	6ENY	Structure of the human PLC editing module	11/29/2017
+	4E41	Structural basis for the recognition of mutant self by a tumor-specific, MHC class II-restricted T cell receptor G4	8/29/2012
+	3V5K	HLA2.1 KVAELVWFL	12/19/2012
+	3DX8	Crystal Structure of B*4405 presenting a 10mer EBV epitope	1/27/2009
+	3DX6	Crystal Structure of B*4402 presenting a 10mer EBV epitope	1/27/2009
+	1HHK	THE ANTIGENIC IDENTITY OF PEPTIDE(SLASH)MHC COMPLEXES: A COMPARISON OF THE CONFORMATION OF FIVE PEPTIDES PRESENTED BY HLA-A2	10/31/1993
+	1IM9	Crystal structure of the human natural killer cell inhibitory receptor KIR2DL1 bound to its MHC ligand HLA-Cw4	5/30/2001
+	6GGM	HLA-E*01:03 in complex with the Mtb44 peptide variant: Mtb44*P2-Phe.	8/8/2018
+	6GHN	HLA-E*01:03 in complex with the Mtb44 peptide variant: Mtb44*P9-Phe.	8/8/2018
+	5XOT	Crystal structure of pHLA-B35 in complex with TU55 T cell receptor	6/14/2017
+	2DL2	KILLER IMMUNOGLOBULIN RECEPTOR 2DL2	3/30/1999
+	4JFE	Preservation of peptide specificity during TCR-MHC contact dominated affinity enhancement of a melanoma-specific TCR	5/29/2013
+	5KSB	T15-DQ8.5-glia-gamma1 complex	9/21/2016
+	5IUE	Human leukocyte antigen F (HLA-F) presents peptides and regulates immunity through interactions with NK-cell receptors	6/14/2017
+	5KNM	Human leukocyte antigen F (HLA-F) presents peptides and regulates immunity through interactions with NK-cell receptors	6/14/2017
+	4GKS	A2-MHC Complex carrying FLTGIGIITV	9/12/2012
+	4JFD	Preservation of peptide specificity during TCR-MHC contact dominated affinity enhancement of a melanoma-specific TCR	5/29/2013
+	4JFF	Preservation of peptide specificity during TCR-MHC contact dominated affinity enhancement of a melanoma-specific TCR	5/29/2013
+	2ICW	Crystal structure of a complete ternary complex between TCR, superantigen, and peptide-MHC class II molecule	3/20/2007
+	4H1L	TCR interaction with peptide mimics of nickel offers structural insights in nickel contact allergy	11/14/2012
+	4I4W	Peptide length determines the outcome of T cell receptor/peptide-MHCI engagement	1/2/2013
+	3KLA	Ca2+ release from the endoplasmic reticulum of NY-ESO-1 specific T cells is modulated by the affinity of T cell receptor and by the use of the CD8 co-receptor	2/16/2010
+	4GG6	Protein complex	10/24/2012
+	4G8G	Crystal Structure of C12C TCR-HA B2705-KK10	3/20/2013
+	4G9F	Crystal Structure of C12C TCR-HLAB2705-KK10-L6M	3/20/2013
+	4C56	X-ray structure of the complex between staphylococcal enterotoxin B, T cell receptor and major histocompatibility complex class II	7/23/2014
+	4QOK	Structural basis for ineffective T-cell responses to MHC anchor residue improved heteroclitic peptides	12/17/2014
+	3GJF	Rational development of high-affinity T-cell receptor-like antibodies	4/28/2009
+	3HAE	Rational development of high-affinity T-cell receptor-like antibodies	5/19/2009
+	3HG1	Germline-governed recognition of a cancer epitope by an immunodominant human T cell receptor	7/28/2009
+	3I6G	Newly identified epitope Mn2 from SARS-CoV M protein complexed withHLA-A*0201	6/16/2010
+	3QH3	The crystal structure of TCR A6	1/4/2012
+	2F53	Directed Evolution of Human T-cell Receptor CDR2 residues by phage display dramatically enhances affinity for cognate peptide-MHC without apparent cross-reactivity	4/25/2006
+	2F54	Directed evolution of human T cell receptor CDR2 residues by phage display dramatically enhances affinity for cognate peptide-MHC without increasing apparent cross-reactivity	4/25/2006
+	2P5E	Crystal Structures of High Affinity Human T-Cell Receptors Bound to pMHC Reveal Native Diagonal Binding Geometry	9/25/2007
+	2P5W	Crystal structures of high affinity human T-cell receptors bound to pMHC reveal native diagonal binding geometry	9/25/2007
+	2PYE	Crystal Structures of High Affinity Human T-Cell Receptors Bound to pMHC RevealNative Diagonal Binding Geometry TCR Clone C5C1 Complexed with MHC	9/25/2007
+	3N50	Human Early B-cell factor 3 (EBF3) IPT/TIG and HLHLH domains	6/16/2010
+	4MNQ	TCR-peptide specificity overrides affinity enhancing TCR-MHC interactions	11/13/2013
+	3QEU	The crystal structure of TCR DMF5	7/6/2011
+	4GRM	The crystal structure of the high affinity TCR A6	7/10/2013
+	4Z7U	S13 complex	6/3/2015
+	1OGA	A structural basis for immunodominant human T-cell receptor recognition.	6/19/2003
+	2BNQ	Structural and kinetic basis for heightened immunogenicity of T cell vaccines	5/23/2005
+	2BNR	Structural and kinetic basis for heightened immunogenicity of T cell vaccines	5/23/2005
+	4Z7V	L3-12 complex	6/3/2015
+	4Z7W	T316 complex	6/3/2015
