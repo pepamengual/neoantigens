@@ -1,0 +1,7 @@
+('AINSEMFLR', 'Positive-Low', -6.063)
+('YLLVKWYRK', 'Positive-Intermediate', -4.356)
+('AIFQRSMTR', 'Positive-High', -4.199)
+('SAICSVVRR', 'Positive-Intermediate', -3.799)
+('TTSLFLHLV', 'Positive-Low', -3.483)
+('AINSEMFLL', 'Positive-Low', 0.086)
+('ACQEAVKLK', 'Negative', 1.128)

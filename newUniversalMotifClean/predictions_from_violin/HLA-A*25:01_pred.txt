@@ -1,0 +1,7 @@
+('YQSMIRPPY', 'Negative', -2.888)
+('LPADPASVL', 'Negative', 0.263)
+('FPHTELANL', 'Negative', 0.418)
+('FQILHDRFF', 'Negative', 0.971)
+('RPPYSSYGY', 'Negative', 4.991)
+('TEAEKWPFF', 'Negative', 5.482)
+('SSKMFNYFK', 'Negative', 5.632)

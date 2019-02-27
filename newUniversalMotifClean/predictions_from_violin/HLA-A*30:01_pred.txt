@@ -1,0 +1,2 @@
+('AINSEMFLL', 'Negative', -1.488)
+('AINSEMFLR', 'Positive-Low', 2.319)
